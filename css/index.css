@@ -1,0 +1,17 @@
+ul li{
+	list-style: none;
+}
+img{
+	margin: 0 10px 0 0;
+}
+div{
+	width: 90%;
+	margin: 0 auto;
+}
+#head img{
+	margin-left: 7px;
+}
+#head span{
+	position: relative;
+	top: -3px;
+}
